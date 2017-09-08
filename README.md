@@ -28,3 +28,7 @@
   [516. Longest Palindromic Subsequence.cpp](https://github.com/squidszyd/leetcode/blob/master/516.%20Longest%20Palindromic%20Subsequence.cpp)
 
   [523. Continuous Subarray Sum](https://github.com/squidszyd/leetcode/blob/master/523.%20Continuous%20Subarray%20Sum.cpp)
+
+- binary tree
+
+  [652. Find Duplicate Subtrees](https://github.com/squidszyd/leetcode/blob/master/652.%20Find%20Duplicate%20Subtrees.cpp)
